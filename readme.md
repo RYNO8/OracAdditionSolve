@@ -3,4 +3,4 @@
 Generate a c++ solution for the hardest problem on orac, "Addition", using lyrics from a song of your choice!
 
 
-(( run main.py ))
+(( run main.py with a wifi connection and preferably python installed))
